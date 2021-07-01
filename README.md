@@ -1,8 +1,4 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on ... a website
-- 🌱 I’m currently learning ... [Flutter](https://github.com/flutter/flutter)
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... click [here](http://leja-podobnik.cf/)
-- ⚡ Fun fact: ... I'm a gaming youtuber
+![Leja's github stats](https://github-readme-stats.vercel.app/api?username=leja123)
 
